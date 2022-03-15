@@ -10,7 +10,7 @@
 <div>
   <img align="right" src="./assets/dev3.svg" width="400px">
   <p>
-  I’m currently working at <a href="https://provi.com.br/">Provi</a> as  Junior Enginner software. 
+  I’m currently working at <a href="https://laura-br.com/">Robo Laura</a> as  FullStack Software Enginner. 
   </p>
 
   <p>
