@@ -8,9 +8,8 @@
 ---
 ### About me
 <div>
-  <img align="right" src="./assets/dev3.svg" width="400px">
   <p>
-  I’m currently working at <a href="https://laura-br.com/">Robo Laura</a> as  FullStack Software Enginner. 
+  I’m currently working at <a href="https://laura-br.com/">Robo Laura</a> as Software Enginner Team Lead. 
   </p>
 
   <p>
